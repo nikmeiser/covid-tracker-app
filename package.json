@@ -55,7 +55,7 @@
     "react-native-ssl-pinning": "^1.4.6",
     "react-native-svg": "9.13.3",
     "react-native-svg-charts": "^5.4.0",
-    "react-native-unimodules": "^0.9.1",
+    "react-native-unimodules": "^0.10.1",
     "yup": "^0.29.1"
   },
   "devDependencies": {
